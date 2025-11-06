@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>トップ</title>
+<title>Insert title here</title>
 </head>
 <body>
-
-<a href="register.jsp">ユーザ登録</a>　
-<a href="">ログイン</a>
 
 </body>
 </html>
