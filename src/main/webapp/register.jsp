@@ -8,5 +8,15 @@
 </head>
 <body>
 <h1>ユーザ登録</h1>
+
+<form action="UserRegisterServlet" method="post"
+      onsubmit="this.querySelector('input[type=submit]').disabled = true;">
+ユーザ名：<input type="text" name="userName" required><br>
+メールアドレス：<input type="email" name="mailAddress" required><br>
+<input type="submit" value="登録">
+</form>
+
+<br><a href="index.jsp">トップへ</a>
+
 </body>
 </html>

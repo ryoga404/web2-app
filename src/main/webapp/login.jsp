@@ -8,5 +8,15 @@
 </head>
 <body>
 <h1>ログイン</h1>
+
+<form action="LoginServlet" method="post"
+      onsubmit="this.querySelector('input[type=submit]').disabled = true;">
+ユーザ名：<input type="text" name="userName" required><br>
+パスワード：<input type="password" name="password" required><br>
+<input type="submit" value="ログイン">
+</form>
+
+<br><a href="index.jsp">トップへ</a>
+
 </body>
 </html>
