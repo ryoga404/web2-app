@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>トップ</title>
+<title>ログイン</title>
 </head>
 <body>
-
-<a href="register.jsp">ユーザ登録</a>　
-<a href="login.jsp">ログイン</a>
-
+<h1>ログイン</h1>
 </body>
 </html>
