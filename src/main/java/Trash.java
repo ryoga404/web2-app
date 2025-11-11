@@ -1,6 +1,6 @@
 
 public class Trash {
-	うるせえ
-	unko
+	String baka="unko";
+	//unko
 }
 
