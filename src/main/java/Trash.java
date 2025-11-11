@@ -1,4 +1,6 @@
 
 public class Trash {
-	うるせえ
+
+	111
+
 }
