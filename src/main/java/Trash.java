@@ -1,6 +1,6 @@
 
 public class Trash {
-
-	111
-
+	うるせえ
+	unko
 }
+
